@@ -20,7 +20,6 @@ A simple Chrome extension to block distractions on YouTube and help you stay foc
 
 - `manifest.json` – Extension configuration
 - `content.js` – Hides YouTube elements using DOM manipulation
-- `popup.html` / `popup.js` – (Optional) UI for toggling the focus mode
 
 ## 🚀 How to Use
 
