@@ -1,6 +1,6 @@
 ﻿# Focus Extension
 
-![Focus Banner](https://i.ibb.co/Kxp2NjdM/focus-banner.png)
+![Focus Banner](https://i.ibb.co/9mHFR7mq/focus-banner.png)
 
 ## 📜 Description
 
